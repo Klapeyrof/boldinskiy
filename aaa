@@ -4,3 +4,4 @@ ssh-keygen -t ed25519 -C "email"
 
 Клонирование репозитория: 
 get clone git@github.com:username/repository.git
+ 

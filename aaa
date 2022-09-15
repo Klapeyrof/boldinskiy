@@ -1,0 +1,6 @@
+ssh-keygen -t ed25519 -C "email"
+
+Добававление ключа: открыть файл и добавить в гитхаб текст
+
+Клонирование репозитория: 
+get clone git@github.com:username/repository.git
